@@ -3,11 +3,14 @@ import "./styles.css";
 var headingtitle = "welcome";
 
 var emojidict = {
-  "😂": "laughing",
-  "😊": "smiling",
-  "😢": "sad",
+  "😂": "Laughing",
+  "😊": "Smiling",
+  "😢": "Sad",
   "❤": "heart",
-  "😍": "heart eyes"
+  "😍": "Heart eyes",
+  "🎶": "Music",
+  "🤦‍♀️": "Facepalm",
+  "🤷‍♂️": "Shrugging"
 };
 
 var emojisfromdict = Object.keys(emojidict);
