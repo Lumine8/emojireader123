@@ -10,7 +10,9 @@ var emojidict = {
   "😍": "Heart eyes",
   "🎶": "Music",
   "🤦‍♀️": "Facepalm",
-  "🤷‍♂️": "Shrugging"
+  "🤷‍♂️": "Shrugging",
+  "🦀": "Crab",
+  "📚":"Books"
 };
 
 var emojisfromdict = Object.keys(emojidict);
